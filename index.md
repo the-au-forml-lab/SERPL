@@ -23,7 +23,7 @@ applications.
 SERPL consists of a full day of research talks from undergraduate and
 graduate students and one keynote speaker.
 
-  <!--
+<!--
   We are extremely excited to announce that the keynote speaker is:
 
   [**Alexis King**](https://lexi-lambda.github.io/) : Research programmer at [Northwestern University
@@ -31,7 +31,8 @@ graduate students and one keynote speaker.
   
   Supported by [Taxslayer](https://www.taxslayer.com/)
 
-  -->
+-->
+
 ## When
 
 All of the important deadlines are as follows:
