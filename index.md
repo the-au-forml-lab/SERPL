@@ -3,6 +3,11 @@ layout: page
 title: SERPL 2020 - The Southeast Regional Programming Languages Seminar
 ---
 
+<!--
+CFP at
+https://github.com/SERPL-Seminar/SERPL/blob/master/CFP.txt
+-->
+
 ## What
 
 The Southeast Regional Programming Languages Seminar (SERPL) seeks to
