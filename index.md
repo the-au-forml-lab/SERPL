@@ -1,41 +1,50 @@
 ---
 layout: page
-title: SERPL 2019 - The Southeast Regional Programming Languages Seminar
+title: SERPL 2020 - The Southeast Regional Programming Languages Seminar
 ---
 
 ## What
 
-SERPL is the Southeast Regional Programming Languages Seminar and
-  seeks to bring together researchers in the design, analysis, and
-  application of programming languages to build new collaborations
-  among students and researchers in the Southeastern United States.
-  SERPL's program consists of a full day of research talks from
-  student researchers at the undergraduate and graduate
-  level. Furthermore, SERPL is a venue for students to get feedback on
-  their work before submission to a major conference.
+The Southeast Regional Programming Languages Seminar (SERPL) seeks to
+bring together researchers in the Southeastern United States working in 
+the design, analysis, and application of programming languages to build 
+new collaborations among students and researchers.
 
+We invite contributions in the form of student -- both undergraduate
+and graduate -- research talks on topics related to programming
+language research from theory to practice to interdisciplinary
+applications.
+
+SERPL consists of a full day of research talks from undergraduate and
+graduate students and one keynote speaker.
+
+  <!--
   We are extremely excited to announce that the keynote speaker is:
 
   [**Alexis King**](https://lexi-lambda.github.io/) : Research programmer at [Northwestern University
   PLT](https://plt.eecs.northwestern.edu/) in Chicago, Illinois.
+  
+  Supported by [Taxslayer](https://www.taxslayer.com/)
 
+  -->
 ## When
 
 All of the important deadlines are as follows:
 
-  - Talk Abstracts Due: April 10, 2019
-  - Notification of Acceptance: April 22, 2019
-  - Student Travel Grant Application Due: May 1, 2019
-  - Registration closes: May 1, 2019
-  - Seminar: May 11, 2019
+- Talk Abstracts Due: March 20th, 2020
+- Notification of Acceptance: April 3rd, 2020 (14 days)
+- Student Travel Grant Application Due: April 10th, 2020 (7 days)
+- Student Travel Grant Notification: April 17th, 2020 (7 days)
+- Registration closes: April 24th, 2020 (7 days)
+- Seminar: May 8, 2020 (14 days)
 
 ## Where
 
-SERPL will be held at the [Georgia Cyber Center
-(GCC)](https://cybercenter.georgia.gov/), the new home of the [Augusta
+SERPL will be held at [Augusta University](https://augusta.edu/), home of the [Augusta
 University School of Computer and Cyber
 Sciences](https://www.augusta.edu/ccs), in Augusta, Georgia, USA.
   
+<!--
   <div style="margin:auto; text-align:center">
     <object width="300" height="250" style="border:0;" data="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3327.8279960952605!2d-81.97239368434725!3d33.47982868076545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f9cd6141dac477%3A0x27a72662829a5b40!2sGeorgia+Cyber+Center+Hull+Mcknight+Building!5e0!3m2!1sen!2sus!4v1551639488779"></object>
   </div>
@@ -46,12 +55,17 @@ Sciences](https://www.augusta.edu/ccs), in Augusta, Georgia, USA.
   - [Holiday Inn Express Augusta Downtown](https://www.ihg.com/holidayinnexpress/hotels/us/en/augusta/agsdt/hoteldetail?cm_mmc=GoogleMaps-_-EX-_-US-_-AGSDT)
 
   The GCC is in downtown Augusta, where there are tons of restaurants, pubs, and bars within walking distance.  
+-->
 
 ## Registration
 
-Registration of all SERPL attendees is required
-    and can be completed by submitting the SERPL [registration form](https://goo.gl/forms/Oeae43eUlqTYqTwi2).
+Registration of all SERPL attendees is required.
+Information to come.
+<!--
+and can be completed by submitting the SERPL [registration form](https://goo.gl/forms/Oeae43eUlqTYqTwi2).
+-->
 
+<!--
 ## Scope
 
 SERPL scope is kept very broad in order to allow as many people to
@@ -70,18 +84,20 @@ SERPL scope is kept very broad in order to allow as many people to
   The previous list of topics is not comprehensive, and if your topic
   is not listed, then this should not prevent you from submitting your
   work.
+-->
 
 ## Submissions
 
-  Please submit in the form of a single PDF file a two page talk
-  abstract.  All submissions should be prepared using LaTeX using the
-  authors favorite style with a font size of no smaller than 11 points,
-  and a margin of no smaller than one inch.
+Please submit in the form of a single PDF file a two page talk
+abstract.  All submissions should be prepared using LaTeX using the
+authors favorite style with a font size of no smaller than 11 points,
+and a margin of no smaller than one inch.
 
-  All submission should be submitted via [submission form](https://docs.google.com/forms/d/e/1FAIpQLSdtcs3SewZ-Q5v0Ow8ccPCA8DK9WnRKVwbgDBxXE4zS57BkIQ/viewform?usp=sf_link).
+All submission should be submitted via the SERPL website (details to follow).
 
-  There will be no formal proceedings, but all abstracts and slides
-  will be posted on this site.
+There will be no formal proceedings, but all abstracts and slides
+will be posted on the SERPL website.
+
 
 ## Travel Support
 
@@ -94,8 +110,7 @@ SERPL is graciously supported by the [National Science Foundation (NSF)](https:/
   minorities, and LBGTQ+ people.
 
   Student travel grant applications can be submitted by filling out
-  the [student travel grant
-  form](https://goo.gl/forms/rF9kE34nbN9Xte4Q2) before April 20th. The application
+  the form to come before April 10th. The application
   requires a letter from the students research supervisor asserting
   that the student has no other means of funding to attend SERPL.
 
@@ -114,4 +129,5 @@ University School of Computer and Cyber Sciences](https://www.augusta.edu/ccs),
 ## Sponsors
 
   - [National Science Foundation (NSF)](https://nsf.gov/)
+  - [Taxslayer](https://www.taxslayer.com/)
   - [The Augusta University School of Computer and Cyber Sciences](https://www.augusta.edu/ccs)
