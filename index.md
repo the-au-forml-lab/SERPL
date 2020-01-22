@@ -38,11 +38,11 @@ graduate students and one keynote speaker.
 All of the important deadlines are as follows:
 
 - Talk Abstracts Due: March 20th, 2020
-- Notification of Acceptance: April 3rd, 2020 (14 days)
-- Student Travel Grant Application Due: April 10th, 2020 (7 days)
-- Student Travel Grant Notification: April 17th, 2020 (7 days)
-- Registration closes: April 24th, 2020 (7 days)
-- Seminar: May 8, 2020 (14 days)
+- Notification of Acceptance: April 3rd, 2020 
+- Student Travel Grant Application Due: April 10th, 2020 
+- Student Travel Grant Notification: April 17th, 2020
+- Registration closes: April 24th, 2020
+- Seminar: May 8, 2020
 
 ## Where
 
