@@ -23,15 +23,12 @@ applications.
 SERPL consists of a full day of research talks from undergraduate and
 graduate students and one keynote speaker.
 
-<!--
-  We are extremely excited to announce that the keynote speaker is:
+We are extremely excited to announce that the keynote talk is
 
-  [**Alexis King**](https://lexi-lambda.github.io/) : Research programmer at [Northwestern University
-  PLT](https://plt.eecs.northwestern.edu/) in Chicago, Illinois.
-  
-  Supported by [Taxslayer](https://www.taxslayer.com/)
+[**Franklyn A. Turbak**](https://www.wellesley.edu/cs/faculty/turbak),  
+Associate Professor of Computer Science at [Wellesley](https://www.wellesley.edu/),  
+_Blocks Programming: A Rich Domain for PL Research_
 
--->
 
 ## When
 
@@ -65,11 +62,7 @@ Sciences](https://www.augusta.edu/ccs), in Augusta, Georgia, USA.
 
 ## Registration
 
-Registration of all SERPL attendees is required.
-Information to come.
-<!--
-and can be completed by submitting the SERPL [registration form](https://goo.gl/forms/Oeae43eUlqTYqTwi2).
--->
+Registration of all SERPL attendees is required, and can be completed by submitting the SERPL [registration form](https://forms.gle/RTbWGuTmwfYEiWKm6).
 
 <!--
 ## Scope
@@ -99,7 +92,7 @@ abstract.  All submissions should be prepared using LaTeX using the
 authors favorite style with a font size of no smaller than 11 points,
 and a margin of no smaller than one inch.
 
-All submission should be submitted via the SERPL website (details to follow).
+All submission should be submitted via the [following form](https://forms.gle/CuiZa51ULMsyxmnT8).
 
 There will be no formal proceedings, but all abstracts and slides
 will be posted on the SERPL website.
@@ -109,7 +102,7 @@ will be posted on the SERPL website.
 
 SERPL is graciously supported by the [National Science Foundation (NSF)](https://nsf.gov/).
 
-  We are accepting applications for student travel support to SERPL.
+  We are accepting applications for student travel support to SERPL: please [use this form](https://forms.gle/snpiUz3mMsreBgHP8).
 
   In addition, we have set aside a portion of our student travel
   awards for funding undergraduate students, women, underrepresented
@@ -129,8 +122,7 @@ University School of Computer and Cyber Sciences](https://www.augusta.edu/ccs),
 University School of Computer and Cyber Sciences](https://www.augusta.edu/ccs),
 [FORML lab](https://the-au-forml-lab.github.io/) (cochair)
   - [Chris Martens](https://sites.google.com/ncsu.edu/cmartens), [Department of Computer Science at North Carolina State University](https://www.csc.ncsu.edu/), [POEM lab](https://sites.google.com/ncsu.edu/poem) (cochair)
-  
-  
+
 
 ## Sponsors
 
