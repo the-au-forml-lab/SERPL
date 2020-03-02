@@ -29,6 +29,33 @@ We are extremely excited to announce that the keynote talk is
 Associate Professor of Computer Science at [Wellesley](https://www.wellesley.edu/),  
 _Blocks Programming: A Rich Domain for PL Research_
 
+> Blocks programming languages represent program syntax
+  trees as compositions of visual code fragments. They are an
+  increasingly popular way to introduce programming and
+  computational thinking. Tens of millions of people have used
+  blocks environments like Scratch, Snap!, MIT App Inventor,
+  Blockly, Pencil Code, Alice/Looking Glass, AgentSheets/AgentCubes,
+  and Code.org's curricula to learn programming and create
+  computational artifacts for themselves, their families, and their
+  communities. But blocks programming is not just for beginners;
+  environments like GP and domain-specific blocks languages are
+  targeted at hobbyists, scientists, artists, business people, and
+  other casual programmers.
+
+> Many members of the Programming Languages (PL) research community
+  are either unaware of blocks languages or dismiss them as "just
+  for kids" or "not real programming". As someone who spent many
+  years working in the areas of functional programming, type
+  systems, and semantics before focusing on blocks programming, I
+  will argue that blocks languages are a rich domain for PL research
+  that combines traditional PL topics with other usually
+  underemphasized areas that should be more front-and-center in the
+  PL research community, including usability, learnability, and
+  computer science education. I will give examples of blocks
+  language projects I've worked on with students in my TinkerBlocks
+  research group at Wellesley College and with members of the MIT
+  App Inventor group.
+
 
 ## When
 
@@ -85,7 +112,7 @@ SERPL scope is kept very broad in order to allow as many people to
   work.
 -->
 
-## Submissions
+## Submission Instructions
 
 Please submit in the form of a single PDF file a two page talk
 abstract.  All submissions should be prepared using LaTeX using the
@@ -128,4 +155,6 @@ University School of Computer and Cyber Sciences](https://www.augusta.edu/ccs),
 
   - [National Science Foundation (NSF)](https://nsf.gov/)
   - [Taxslayer](https://www.taxslayer.com/)
+  <!--
   - [The Augusta University School of Computer and Cyber Sciences](https://www.augusta.edu/ccs)
+    -->
