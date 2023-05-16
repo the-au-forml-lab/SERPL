@@ -3,45 +3,45 @@
 // Used in conjunction with global variables to enable certain theme features.
 
 // Vendor
-@import "node_modules/vendor/rfs";
+@import "bootstrap/vendor/rfs";
 
 // Deprecate
-@import "node_modules/mixins/deprecate";
+@import "bootstrap/mixins/deprecate";
 
 // Utilities
-@import "node_modules/mixins/breakpoints";
-@import "node_modules/mixins/hover";
-@import "node_modules/mixins/image";
-@import "node_modules/mixins/badge";
-@import "node_modules/mixins/resize";
-@import "node_modules/mixins/screen-reader";
-@import "node_modules/mixins/size";
-@import "node_modules/mixins/reset-text";
-@import "node_modules/mixins/text-emphasis";
-@import "node_modules/mixins/text-hide";
-@import "node_modules/mixins/text-truncate";
-@import "node_modules/mixins/visibility";
+@import "bootstrap/mixins/breakpoints";
+@import "bootstrap/mixins/hover";
+@import "bootstrap/mixins/image";
+@import "bootstrap/mixins/badge";
+@import "bootstrap/mixins/resize";
+@import "bootstrap/mixins/screen-reader";
+@import "bootstrap/mixins/size";
+@import "bootstrap/mixins/reset-text";
+@import "bootstrap/mixins/text-emphasis";
+@import "bootstrap/mixins/text-hide";
+@import "bootstrap/mixins/text-truncate";
+@import "bootstrap/mixins/visibility";
 
 // Components
-@import "node_modules/mixins/alert";
-@import "node_modules/mixins/buttons";
-@import "node_modules/mixins/caret";
-@import "node_modules/mixins/pagination";
-@import "node_modules/mixins/lists";
-@import "node_modules/mixins/list-group";
-@import "node_modules/mixins/nav-divider";
-@import "node_modules/mixins/forms";
-@import "node_modules/mixins/table-row";
+@import "bootstrap/mixins/alert";
+@import "bootstrap/mixins/buttons";
+@import "bootstrap/mixins/caret";
+@import "bootstrap/mixins/pagination";
+@import "bootstrap/mixins/lists";
+@import "bootstrap/mixins/list-group";
+@import "bootstrap/mixins/nav-divider";
+@import "bootstrap/mixins/forms";
+@import "bootstrap/mixins/table-row";
 
 // Skins
-@import "node_modules/mixins/background-variant";
-@import "node_modules/mixins/border-radius";
-@import "node_modules/mixins/box-shadow";
-@import "node_modules/mixins/gradients";
-@import "node_modules/mixins/transition";
+@import "bootstrap/mixins/background-variant";
+@import "bootstrap/mixins/border-radius";
+@import "bootstrap/mixins/box-shadow";
+@import "bootstrap/mixins/gradients";
+@import "bootstrap/mixins/transition";
 
 // Layout
-@import "node_modules/mixins/clearfix";
-@import "node_modules/mixins/grid-framework";
-@import "node_modules/mixins/grid";
-@import "node_modules/mixins/float";
+@import "bootstrap/mixins/clearfix";
+@import "bootstrap/mixins/grid-framework";
+@import "bootstrap/mixins/grid";
+@import "bootstrap/mixins/float";
