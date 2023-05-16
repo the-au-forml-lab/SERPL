@@ -43,5 +43,6 @@ exclude:
 
 encoding: utf-8
 
-sass:
-  sass_dir: ./_sass/bootstrap
+load_paths:
+    - _sass
+    - node_modules
