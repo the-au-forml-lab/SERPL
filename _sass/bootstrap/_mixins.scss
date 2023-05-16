@@ -3,8 +3,7 @@
 // Used in conjunction with global variables to enable certain theme features.
 
 // Vendor
-// @import "vendor/rfs";
-@import "../../../../node_modules/bootstrap/scss/vendor/rfs"; // Cf. https://github.com/twbs/bootstrap-npm-starter/issues/70#issuecomment-1266531181
+@import "vendor/rfs";
 
 // Deprecate
 @import "mixins/deprecate";
