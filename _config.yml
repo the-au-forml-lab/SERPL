@@ -42,7 +42,3 @@ exclude:
   - update_boostrap.sh
 
 encoding: utf-8
-
-load_paths:
-    - _sass
-    - _sass/bootstrap
