@@ -3,45 +3,45 @@
 // Used in conjunction with global variables to enable certain theme features.
 
 // Vendor
-@import "vendor/rfs";
+@import "node_modules/vendor/rfs";
 
 // Deprecate
-@import "mixins/deprecate";
+@import "node_modules/mixins/deprecate";
 
 // Utilities
-@import "mixins/breakpoints";
-@import "mixins/hover";
-@import "mixins/image";
-@import "mixins/badge";
-@import "mixins/resize";
-@import "mixins/screen-reader";
-@import "mixins/size";
-@import "mixins/reset-text";
-@import "mixins/text-emphasis";
-@import "mixins/text-hide";
-@import "mixins/text-truncate";
-@import "mixins/visibility";
+@import "node_modules/mixins/breakpoints";
+@import "node_modules/mixins/hover";
+@import "node_modules/mixins/image";
+@import "node_modules/mixins/badge";
+@import "node_modules/mixins/resize";
+@import "node_modules/mixins/screen-reader";
+@import "node_modules/mixins/size";
+@import "node_modules/mixins/reset-text";
+@import "node_modules/mixins/text-emphasis";
+@import "node_modules/mixins/text-hide";
+@import "node_modules/mixins/text-truncate";
+@import "node_modules/mixins/visibility";
 
 // Components
-@import "mixins/alert";
-@import "mixins/buttons";
-@import "mixins/caret";
-@import "mixins/pagination";
-@import "mixins/lists";
-@import "mixins/list-group";
-@import "mixins/nav-divider";
-@import "mixins/forms";
-@import "mixins/table-row";
+@import "node_modules/mixins/alert";
+@import "node_modules/mixins/buttons";
+@import "node_modules/mixins/caret";
+@import "node_modules/mixins/pagination";
+@import "node_modules/mixins/lists";
+@import "node_modules/mixins/list-group";
+@import "node_modules/mixins/nav-divider";
+@import "node_modules/mixins/forms";
+@import "node_modules/mixins/table-row";
 
 // Skins
-@import "mixins/background-variant";
-@import "mixins/border-radius";
-@import "mixins/box-shadow";
-@import "mixins/gradients";
-@import "mixins/transition";
+@import "node_modules/mixins/background-variant";
+@import "node_modules/mixins/border-radius";
+@import "node_modules/mixins/box-shadow";
+@import "node_modules/mixins/gradients";
+@import "node_modules/mixins/transition";
 
 // Layout
-@import "mixins/clearfix";
-@import "mixins/grid-framework";
-@import "mixins/grid";
-@import "mixins/float";
+@import "node_modules/mixins/clearfix";
+@import "node_modules/mixins/grid-framework";
+@import "node_modules/mixins/grid";
+@import "node_modules/mixins/float";
