@@ -1,20 +1,19 @@
 ---
 layout: page
-title: The Southeast Regional Programming Languages Seminar (SERPL)
+title: Call for Papers
 ---
 
-The Southeast Regional Programming Languages Seminar (SERPL) seeks to
-bring together researchers in the Southeastern United States working in 
-the design, analysis, and application of programming languages to build 
-new collaborations among students and researchers.
 
-We invite contributions in the form of student -- both undergraduate
-and graduate -- research talks on topics related to programming
-language research from theory to practice to interdisciplinary
-applications.
+Please submit in the form of a single PDF file a two page talk
+abstract.  All submissions should be prepared using LaTeX using the
+authors favorite style with a font size of no smaller than 11 points,
+and a margin of no smaller than one inch.
 
-SERPL consists of a full day of research talks from undergraduate and
-graduate students and one keynote speaker.
+All submission should be submitted via EasyChair
+
+There will be no formal proceedings, but all abstracts and slides
+will be posted on the SERPL website.
+
 
 ## Scope
 
@@ -35,3 +34,15 @@ topics for SERPL related research:
 The previous list of topics is not comprehensive, and if your topic
 is not listed, then this should not prevent you from submitting your
 talk abstract.
+
+## Submission
+
+**Submission instructions will be posted soon!**
+
+
+## Important Dates
+
+* **August 11, 2023**   -- Talk Abstracts Due 
+* **September 8, 2023** -- Notification of Acceptance
+
+

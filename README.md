@@ -1,21 +1,25 @@
+# SERPL Website
 
-# Boostrap 4 Github Pages
+Website for The Southeast Regional Programming Languages Seminar (SERPL).
 
-[![Build Status](https://travis-ci.org/nicolas-van/bootstrap-4-github-pages.svg?branch=master)](https://travis-ci.org/nicolas-van/bootstrap-4-github-pages)
+## Development Notes
 
-A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
+This website is built with markdown, [Jekyll](https://jekyllrb.com/), [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/) and hosted by [Github Pages](https://pages.github.com/).
 
-* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
-* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
-* Full support of Bootstrap's JavaScript plugins.
-* Supports all features of Github Pages and Jekyll.
+For small changes it is sufficient to make changes to the markdown and then commit and push those changes.
+The website will update automatically.
 
-[See the website for demonstration and documentation](https://nicolas-van.github.io/bootstrap-4-github-pages/).
+### Debugging the website locally
 
-## Contribution
-
-[See the contribution guide.](./CONTRIBUTING.md)
-
-## License
-
-[See the license file.](./LICENSE.md)
+1. Setup environment: 
+   - To install Jekyll for various OS: <https://jekyllrb.com/docs/installation>
+   - You will need at least Ruby, and
+   - Ruby gems bundler and jekyll: `gem install jekyll bundler`
+   - Also needed [this](https://github.com/jekyll/jekyll/issues/8523): `bundle add webrick`
+   
+2. See instructions of how to [debug pages locally](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll#building-your-site-locally).
+   Generally, once the dependencies are set up, run:
+   
+    ```
+    bundle exec jekyll serve
+    ```
