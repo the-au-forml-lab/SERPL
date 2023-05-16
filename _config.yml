@@ -45,4 +45,4 @@ encoding: utf-8
 
 load_paths:
     - _sass
-    - node_modules
+    - _sass/bootstrap
