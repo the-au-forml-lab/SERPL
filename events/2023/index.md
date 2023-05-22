@@ -24,8 +24,7 @@ graduate students and one keynote speaker.
 
 ## Keynote Speaker
 
-We are extremely excited to announce that the keynote talk is 
-[**Jonathan Aldrich**](https://www.cs.cmu.edu/~aldrich/) from [Carnegie Mellon University](https://www.cmu.edu/).
+We are extremely excited to announce that the keynote talk will be given by [**Jonathan Aldrich**](https://www.cs.cmu.edu/~aldrich/) from [Carnegie Mellon University](https://www.cmu.edu/).
 
 ## Important Dates
 
@@ -40,7 +39,7 @@ We are extremely excited to announce that the keynote talk is
 
 ## Where
 
-SERPL will be held at [Augusta University](https://www.augusta.edu/), in Augusta, Georgia, USA.
+SERPL will be held at [Augusta University](https://www.augusta.edu/), in [Augusta, Georgia, USA](https://www.openstreetmap.org/#map=11/33.3864/-82.1770).
 
 ## Organizing Committee
 
@@ -61,7 +60,7 @@ Most of our sponsorship funds are used to help students from around the United S
   <div class="row justify-content-left">
   <div class="row">
     <div class="col-sm text-left">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://nsf.gov">
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1902406">
         <img style="width:96px" src="{{ "/images/nsf.png" | relative_url }}" alt="NSF">
         National Science Foundation (NSF)</a>
     </div>
