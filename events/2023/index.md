@@ -25,7 +25,7 @@ graduate students and one keynote speaker.
 ## Keynote Speaker
 
 We are extremely excited to announce that the keynote talk is 
-**Jonathan Aldrich** from Carnegie Mellon University.
+[**Jonathan Aldrich**](https://www.cs.cmu.edu/~aldrich/) from [Carnegie Mellon University](https://www.cmu.edu/).
 
 ## Important Dates
 
@@ -40,24 +40,20 @@ We are extremely excited to announce that the keynote talk is
 
 ## Where
 
-SERPL will be held at Augusta University, home of the Augusta University School of Computer and Cyber Sciences, in Augusta, Georgia, USA.
-
-
+SERPL will be held at [Augusta University](https://www.augusta.edu/), in Augusta, Georgia, USA.
 
 ## Organizing Committee
 
-- [Harley Eades III](http://metatheorem.org/), [Augusta
-  University School of Computer and Cyber Sciences](https://www.augusta.edu/ccs),
-  [FORML lab](https://the-au-forml-lab.github.io/) (chair)
-- [Clément Aubert](http://spots.augusta.edu/caubert/), [Augusta
-  University School of Computer and Cyber Sciences](https://www.augusta.edu/ccs),
-  [FORML lab](https://the-au-forml-lab.github.io/) (cochair)
+- [Harley Eades III](http://metatheorem.org/), [Augusta University](https://www.augusta.edu/) [School of Computer and Cyber Sciences](https://www.augusta.edu/ccs) (cochair)
+- [Clément Aubert](http://spots.augusta.edu/caubert/), [Augusta University](https://www.augusta.edu/) [School of Computer and Cyber Sciences](https://www.augusta.edu/ccs) (cochair)
+- [Peter Hanukaev](https://peterhanukaev.com/), [Augusta University](https://www.augusta.edu/) [School of Computer and Cyber Sciences](https://www.augusta.edu/ccs) (committee member)
+- [Neea Rusch](https://nkrusch.github.io/) [Augusta University](https://www.augusta.edu/) [School of Computer and Cyber Sciences](https://www.augusta.edu/ccs) (committee member)
 
+The members of the organizing committe can be reached all at once using <serpl2023@aug.edu>.
   
 ## Call for Sponsorship
 
-Most of our sponsorship funds are used to help students from around the United States afford to attend the workshop and get the most out of their experience, as well as to help facilitate interest broadly in programming languages research. We believe this commitment will pay dividends for our students, sponsors, and the public for years to come. If you’re interested in becoming a sponsor, we’d love to hear from you.
-Get in touch with SERPL Organizing Committee.
+Most of our sponsorship funds are used to help students from around the United States afford to attend the workshop and get the most out of their experience, as well as to help facilitate interest broadly in programming languages research. We believe this commitment will pay dividends for our students, sponsors, and the public for years to come. If you're interested in becoming a sponsor, [we'd love to hear from you](mailto:serpl2023@aug.edu).
 
 ## Our Sponsors
 
