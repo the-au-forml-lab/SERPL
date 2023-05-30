@@ -24,13 +24,13 @@ topics for SERPL related research:
 
 - Programming Language Design
 - Human Aspects of Programming Languages (HCI)
-- Implementation aspects of programming languages
+- Implementation Aspects of Programming Languages
 - Software-Development Techniques
 - Foundations of Programming Languages
 - Software Analysis
-- Applications of programming languages
-- Domain-specific languages
-- Programming-language related education
+- Applications of Programming Languages
+- Domain-Specific Languages
+- Programming-Language Related Education
 
 The previous list of topics is not comprehensive, and if your topic
 is not listed, then this should not prevent you from submitting your
