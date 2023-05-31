@@ -4,12 +4,13 @@ title: Call for Papers
 ---
 
 
-Please submit in the form of a single PDF file a two page talk
-abstract.  All submissions should be prepared using LaTeX using the
-authors favorite style with a font size of no smaller than 11 points,
-and a margin of no smaller than one inch.
+Please submit, in the form of a single PDF file, a two page talk
+abstract (not counting references).  Submissions should be prepared
+using LaTeX using the author's favorite style with a font size of
+no smaller than 11 points, and a margin of no smaller than one inch.
 
-All submission should be submitted via EasyChair
+Submission is submitted via the EasyChair website, at
+https://easychair.org/conferences/?conf=serpl23
 
 There will be no formal proceedings, but all abstracts and slides
 will be posted on the SERPL website.
@@ -35,9 +36,6 @@ The previous list of topics is not comprehensive, and if your topic
 is not listed, then this should not prevent you from submitting your
 talk abstract.
 
-## Submission
-
-**Submission instructions will be posted soon!**
 
 
 ## Important Dates
