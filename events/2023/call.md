@@ -10,7 +10,7 @@ using LaTeX using the author's favorite style with a font size of
 no smaller than 11 points, and a margin of no smaller than one inch.
 
 Submission is submitted via the EasyChair website, at
-https://easychair.org/conferences/?conf=serpl23
+<https://easychair.org/conferences/?conf=serpl23>.
 
 There will be no formal proceedings, but all abstracts and slides
 will be posted on the SERPL website.
@@ -24,19 +24,17 @@ topics for SERPL related research:
 
 - Programming Language Design
 - Human Aspects of Programming Languages (HCI)
-- Implementation aspects of programming languages
+- Implementation Aspects of Programming Languages
 - Software-Development Techniques
 - Foundations of Programming Languages
 - Software Analysis
-- Applications of programming languages
-- Domain-specific languages
-- Programming-language related education
+- Applications of Programming Languages
+- Domain-Specific Languages
+- Programming-Language Related Education
 
 The previous list of topics is not comprehensive, and if your topic
 is not listed, then this should not prevent you from submitting your
 talk abstract.
-
-
 
 ## Important Dates
 
