@@ -48,13 +48,13 @@ SERPL will be held at [Augusta University](https://www.augusta.edu/), in [August
 - [Peter Hanukaev](https://peterhanukaev.com/), [Augusta University](https://www.augusta.edu/) [School of Computer and Cyber Sciences](https://www.augusta.edu/ccs) (committee member)
 - [Neea Rusch](https://nkrusch.github.io/) [Augusta University](https://www.augusta.edu/) [School of Computer and Cyber Sciences](https://www.augusta.edu/ccs) (committee member)
 
-The members of the organizing committe can be reached all at once using <serpl2023@aug.edu>.
-  
+The chairs can be reached at <caubert@augusta.edu> and <harley.eades@gmail.com>.
+
 ## Call for Sponsorship
 
-Most of our sponsorship funds are used to help students from around the United States afford to attend the workshop and get the most out of their experience, as well as to help facilitate interest broadly in programming languages research. We believe this commitment will pay dividends for our students, sponsors, and the public for years to come. If you're interested in becoming a sponsor, [we'd love to hear from you](mailto:serpl2023@aug.edu).
+Most of our sponsorship funds are used to help students from around the United States afford to attend the workshop and get the most out of their experience, as well as to help facilitate interest broadly in programming languages research. We believe this commitment will pay dividends for our students, sponsors, and the public for years to come. If you're interested in becoming a sponsor, [we'd love to hear from you](harley.eades@gmail.com).
 
-## Our Sponsors
+## Our Sponsor
 
 <div class="container">
   <div class="row justify-content-left">
