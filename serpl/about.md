@@ -1,7 +1,6 @@
 ---
 layout: page
 title: The Southeast Regional Programming Languages Seminar (SERPL)
-redirect_to: /events/2023/
 ---
 
 The Southeast Regional Programming Languages Seminar (SERPL) seeks to
