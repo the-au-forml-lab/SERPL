@@ -61,8 +61,7 @@ Most of our sponsorship funds are used to help students from around the United S
   <div class="row">
     <div class="col-sm text-left">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1902406">
-        <img style="width:96px" src="{{ "/images/nsf.png" | relative_url }}" alt="NSF">
-        National Science Foundation (NSF)</a>
+        <img style="width:192px" src="{{ "/images/nsf-logo-desktop.svg" | relative_url }}" alt="NSF"></a>
     </div>
   </div>
   </div>

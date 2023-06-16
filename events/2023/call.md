@@ -9,8 +9,9 @@ abstract (not counting references).  Submissions should be prepared
 using LaTeX using the author's favorite style with a font size of
 no smaller than 11 points, and a margin of no smaller than one inch.
 
-Submission is submitted via the EasyChair website, at
-<https://easychair.org/conferences/?conf=serpl23>.
+Submit your abstract via the EasyChair website, at:
+
+**<https://easychair.org/conferences/?conf=serpl23>**.
 
 There will be no formal proceedings, but all abstracts and slides
 will be posted on the SERPL website.
