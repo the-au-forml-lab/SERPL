@@ -19,10 +19,8 @@ SERPL student travel support is graciously funded by the National Science Founda
 **Application period is open!**
 We are currently accepting applications for student travel support to SERPL.
 
-<a class="btn btn-lg btn-primary" target="_blank" rel="noopener noreferrer nofollow"
+<a class="rounded-0 btn btn-lg btn-primary mt-2 mb-6" target="_blank" rel="noopener noreferrer nofollow"
 href="https://forms.gle/snpiUz3mMsreBgHP8">Submit Application</a>
-
-<br/>
 
 ## Important Dates for Travel Support
 

@@ -11,8 +11,8 @@ new collaborations among students and researchers.
 </p>
 
 <p class="lead">
-We invite contributions in the form of student -- both undergraduate
-and graduate -- research talks on topics related to programming
+We invite contributions in the form of student — both undergraduate
+and graduate — research talks on topics related to programming
 language research from theory to practice to interdisciplinary
 applications.
 </p>
@@ -52,7 +52,7 @@ The chairs can be reached at <caubert@augusta.edu> and <harley.eades@gmail.com>.
 
 ## Call for Sponsorship
 
-Most of our sponsorship funds are used to help students from around the United States afford to attend the workshop and get the most out of their experience, as well as to help facilitate interest broadly in programming languages research. We believe this commitment will pay dividends for our students, sponsors, and the public for years to come. If you're interested in becoming a sponsor, [we'd love to hear from you](harley.eades@gmail.com).
+Most of our sponsorship funds are used to help students from around the United States afford to attend the workshop and get the most out of their experience, as well as to help facilitate interest broadly in programming languages research. We believe this commitment will pay dividends for our students, sponsors, and the public for years to come. If you're interested in becoming a sponsor, [we'd love to hear from you](mailto:harley.eades@gmail.com).
 
 ## Our Sponsor
 
@@ -70,10 +70,17 @@ Most of our sponsorship funds are used to help students from around the United S
 <br/>
 
 <div class="container">
-<p class="h10 mb-3 border-top">
-  <a href="https://www.augusta.edu/" title="Augusta University">
-    <img style="width:20%" src="{{ "/images/AU-logo.png" | relative_url }}" alt="Augusta University"></a>
-  <a href="https://www.augusta.edu/ccs/" title="School of Computer and Cyber Sciences">
-    <img style="width:20%" src="{{ "/images/SCCS-logo.png" | relative_url }}" alt="School of Computer and Cyber Sciences"></a>
-</p>   
+<p class="h10 mb-3 border-top"></p>   
+<div class="container">
+  <div class="row">
+    <div class="col col-lg-3">
+        <a href="https://www.augusta.edu/" title="Augusta University">
+        <img style="width: 256px; max-width:100%" src="{{ "/images/AU-logo.png" | relative_url }}" alt="Augusta University"></a>
+    </div>
+    <div class="col">
+        <a href="https://www.augusta.edu/ccs/" title="School of Computer and Cyber Sciences">
+        <img style="width: 256px; max-width:100%" src="{{ "/images/SCCS-logo.png" | relative_url }}" alt="School of Computer and Cyber Sciences"></a> 
+    </div>
+  </div>
+</div>
 </div>

@@ -35,3 +35,8 @@ topics for SERPL related research:
 The previous list of topics is not comprehensive, and if your topic
 is not listed, then this should not prevent you from submitting your
 talk abstract.
+
+## Events
+
+- [SERPL 2023](https://the-au-forml-lab.github.io/SERPL/events/2023/)
+- [SERPL 2019](https://the-au-forml-lab.github.io/SERPL2019/)
