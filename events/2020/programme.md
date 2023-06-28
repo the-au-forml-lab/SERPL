@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: SERPL 2019 - Programme
 ---
 

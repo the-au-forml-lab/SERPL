@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+{%- include head.html -%}
+<body>
+<!-- Picture from https://augustauniversity.photoshelter.com/galleries/C0000C4vnUYhbyOg/G0000aTY5cvIc4qI/Summerville-Buildings -->
+<img style="height:20%; width:100%" src="{{ site.baseurl }}/images/back_crop.jpg" alt="The University Hall building, on the Summerville Campus.">
+<div class="container-fluid ml-md-1" style="background-color:var(--au-blue);">
+  <nav class="navbar navbar-dark navbar-expand-lg">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="{{ site.baseurl }}/events/2023/index">SERPL 2023</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+              data-bs-target="#siteNavigation" aria-controls="siteNavigation"
+              aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="siteNavigation">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link" href="{{ site.baseurl }}/events/2023/call">Call for Papers</a></li>
+          <li class="nav-item">
+            <a class="nav-link" href="{{ site.baseurl }}/events/2023/travel-support">Student Travel Support</a></li>
+          <li class="nav-item">
+            <a class="nav-link" href="{{ site.baseurl }}/events/2023/attending">Local Arrangements</a></li>
+          <li class="nav-item">
+            <a class="nav-link" href="{{ site.baseurl }}/events/2023/registration">Registration</a></li>
+          <li class="nav-item">
+            <a class="nav-link" href="{{ site.baseurl }}/serpl/code-of-conduct.html">Code of Conduct</a></li>
+          {%- include series.html -%}
+        </ul>
+      </div>
+    </div>
+  </nav>
+</div>
+<div class="py-5">
+  <div class="container-lg page-content">
+    <article>
+      <div class="container-lg"></div>
+      <header>
+        <h1 class="display-5">{{ page.title | escape }}</h1>
+      </header>
+      <section>
+        {{ content }}
+      </section>
+    </article>
+  </div>
+</div>
+</body>
+</html>

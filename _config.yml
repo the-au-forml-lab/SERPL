@@ -22,16 +22,24 @@ baseurl: "/SERPL" # the subpath of your site, e.g. /blog
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
-repository: "nicolas-van/bootstrap-4-github-pages"
+# Configure page layouts by path
+defaults:
+  -
+    scope:  # CHANGE HERE
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "2023"  # change the default layout here, in 2024 etc.
+  -
+    scope:  # DO NOT CHANGE THIS: this path always uses 2023 layout
+      path: "/events/2023"
+    values:
+      layout: "2023"
 
 # Build settings
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-redirect-from
-
-# A list of the pages to display in the navigation bar
-header_pages:
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
