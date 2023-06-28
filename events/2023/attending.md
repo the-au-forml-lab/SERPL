@@ -32,7 +32,10 @@ Google Maps</a>
 <br/>
 
 - The main highway to and from Augusta is Interstate 20 (I-20).
-- The closest hotel is Augusta Regional Airport (AGS).
+- The closest airport is Augusta Regional Airport (AGS).
+- In Augusta, private vehicle, ride-share or taxi is needed for most transportation.
+- During SERPL, free parking is available [by the University Hall building](https://map.concept3d.com/?id=824#!bm/?ce/14184?m/128925?s/?sbc/?mc/33.476954163515444,-82.0212454858762?z/17.82582911171612?lvl/0).
+
 
 ## Nearby Hotels
 
