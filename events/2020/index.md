@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: SERPL 2020 - The Southeast Regional Programming Languages Seminar
 ---
 

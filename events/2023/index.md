@@ -1,5 +1,4 @@
----
-layout: page
+--- 
 title: The Southeast Regional Programming Languages Seminar 2023
 ---
 
