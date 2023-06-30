@@ -24,11 +24,11 @@ The website will update automatically.
     bundle exec jekyll serve
     ```
 
-### Notes on upgrading
+### Notes on templating
 
-The page templates are set in the _config.yml. To add a newer event:
+All page templates are configured in `_config.yml`. To add a new event:
 
-1. make a new layout in _layouts (see. e.g. 2023.html in layout)
-2. change the config to use that new layout (see `defaults` in config.yml)
+1. make a new layout in `_layouts/` (see `2023.html` as example)
+2. apply that new layout to selected scope (see `defaults` in `_config.yml`)
 
-The "old" events will retain their layout using the scoped paths.
+Existing events will retain their layout using the scoped paths.

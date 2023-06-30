@@ -3,8 +3,8 @@ title: SERPL Code of Conduct
 ---
 
 SERPL strives to be a welcoming and inclusive environment for
-everyone.  To help enforce this policy SERPL has adopted the [ACM Code
-of Conduct](https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment).
+everyone.  To help enforce this policy SERPL has adopted the
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment">ACM Code of Conduct</a>.
 Any participants violating these standards may be expelled from the
 workshop, at the discretion of the conference organizers.
 

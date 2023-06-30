@@ -1,18 +1,26 @@
-<!-- navigation menu with links to all years -->
+<!-- navigation menu with links to general information about SERPL -->
 <li class="nav-item dropdown">
-  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown"
-     role="button" data-bs-toggle="dropdown" aria-expanded="false">
-    Series
-  </a>
-  <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-    <li><a class="dropdown-item"
-           href="{{ site.baseurl }}/serpl/about">About SERPL</a></li>
-    <div class="dropdown-divider"></div>
-<!--    <li><a class="dropdown-item"-->
-<!--           target="_blank" rel="noopener noreferrer nofollow"-->
-<!--           href="https://the-au-forml-lab.github.io/SERPL/events/2023/">SERPL 2023</a></li>-->
-    <li><a class="dropdown-item"
-           target="_blank" rel="noopener noreferrer nofollow"
-           href="https://the-au-forml-lab.github.io/SERPL2019/">SERPL 2019</a></li>
-  </ul>
+    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown"
+       role="button" data-bs-toggle="dropdown" aria-expanded="false">
+        Series
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+
+        <li>
+            <a class="dropdown-item" href="{{ site.baseurl }}/serpl/about">
+                About SERPL
+            </a>
+        </li>
+
+        <div class="dropdown-divider"></div>
+
+        <!-- make a list of all the years, edit in _config.yml -->
+        {% for ev in site.events %}
+        <li><a class="dropdown-item" target="_blank"
+               rel="noopener noreferrer nofollow"
+               href="{{ ev.url }}">
+            SERPL {{ev.year}}
+        </a></li>
+        {% endfor %}
+    </ul>
 </li>

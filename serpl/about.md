@@ -37,5 +37,8 @@ talk abstract.
 
 ## Events
 
-- [SERPL 2023](https://the-au-forml-lab.github.io/SERPL/events/2023/)
-- [SERPL 2019](https://the-au-forml-lab.github.io/SERPL2019/)
+<ul>
+{% for ev in site.events %}
+<li><a href="{{ ev.url }}">SERPL {{ev.year}}</a></li>
+{% endfor %}
+</ul>

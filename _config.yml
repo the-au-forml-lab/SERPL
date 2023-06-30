@@ -24,16 +24,25 @@ baseurl: "/SERPL" # the subpath of your site, e.g. /blog
 
 # Configure page layouts by path
 defaults:
-  -
-    scope:  # CHANGE HERE
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "2023"  # change the default layout here, in 2024 etc.
+  # add new entries here
   -
     scope:  # DO NOT CHANGE THIS: this path always uses 2023 layout
-      path: "/events/2023"
+      path: "/events/2023/*"
     values:
       layout: "2023"
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "2023"  # change the default fallback layout here
+
+# Make a list of all events and their URLs
+# Used in about page and menu
+events:
+  - year: 2023
+    url: https://the-au-forml-lab.github.io/SERPL/events/2023/
+  - year: 2019
+    url: https://the-au-forml-lab.github.io/SERPL2019/
 
 # Build settings
 plugins:
