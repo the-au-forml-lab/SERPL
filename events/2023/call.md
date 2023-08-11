@@ -39,7 +39,7 @@ talk abstract.
 
 ## Important Dates
 
-* **August 11, 2023**   -- Talk Abstracts Due 
+* ~~August 11~~ **August 14, 2023**   -- Talk Abstracts Due (extended) 
 * **September 8, 2023** -- Notification of Acceptance
 
 
