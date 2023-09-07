@@ -2,6 +2,5 @@
 title: Registration
 ---
 
-Coming soon!
-
-[//]: # (Registration of all SERPL attendees is required, and can be completed by submitting the SERPL [registration form]&#40;https://forms.gle/RTbWGuTmwfYEiWKm6&#41;.)
+To register please send a freely worded email to <caubert@augusta.edu> or <harley.eades@gmail.com> 
+to say you will be attending. The registration is free.
