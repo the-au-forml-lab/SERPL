@@ -31,8 +31,8 @@ We are extremely excited to announce that the keynote talk will be given by [**J
 |---|:------------------|---|
 | 🗸 | August 18, 2023   | Talk Abstracts Due |
 | 🗸 | August 18, 2023   | Student Travel Grant Application Due |
-| | September 8, 2023 | Notification of Acceptance |
-| | September 8, 2023 | Student Travel Grant Notification |
+| 🗸 | September 8, 2023 | Notification of Acceptance |
+| 🗸 | September 8, 2023 | Student Travel Grant Notification |
 | | October 4, 2023   | Registration closes |
 | | October 14, 2023  | Seminar |
 
