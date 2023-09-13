@@ -2,12 +2,10 @@
 title: Program
 ---
 
-## Program
-
-The preliminary program is thus.
 
 | Time        | Title                                                                 | Speaker                |
-| 09.00-09.10 | Opening                                                               | Clément Aubert         |
+----------------------------------------------------------------------------------------------------------------
+| 09.00-09.10 | Opening                                                               |                        |
 | 09.10-10.10 | Keynote; Title TBC                                                    | Jonathan Aldrich       |
 | 10.10-10.40 | __Break__                                                             |                        |
 | 10.40-11.10 | Moving Beyond Parsing Expression Grammars                             | Kayla Sanderson        |
