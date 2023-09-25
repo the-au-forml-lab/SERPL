@@ -1,0 +1,16 @@
+Current static verification techniques do not provide good support
+for incrementality, making it difficult for developers to focus on
+specifying and verifying the properties and components that are most
+important. Dynamic verification approaches support incrementality, but
+cannot provide static guarantees. To bridge this gap, we propose gradual
+verification, which supports incrementality by allowing every assertion
+to be complete, partial, or omitted, and provides sound verification that
+smoothly scales from dynamic to static checking. I’ll describe a system
+that can verify first-order specifications of programs that manipulate
+recursive, mutable data structures on the heap, demonstrate a prototype
+tool, and share some initial empirical results. Our approach addresses
+several technical challenges, such as semantically connecting iso- and
+equi-recursive interpretations of abstract predicates, and supporting
+gradual verification of heap ownership. This work thus lays the foundation
+for future tools that work on realistic programs and support verification
+within an engineering process in which cost-benefit tradeoffs can be made.
