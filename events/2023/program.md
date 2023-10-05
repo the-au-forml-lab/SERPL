@@ -6,7 +6,7 @@ title: Program
 | Time        | Title                                                                                    | Speaker                                            |
 |-------------|------------------------------------------------------------------------------------------|----------------------------------------------------|
 | 09.00-09.10 | Opening                                                                                  |                                                    |
-| 09.10-10.10 | Keynote: [Gradual Verification: Assuring Software Incrementally](./keynote_abstract.txt) | Jonathan Aldrich (Carnegie Mellon University)      |
+| 09.10-10.10 | Keynote: [Gradual Verification: Assuring Software Incrementally](../_includes/abstracts/keynote_abstract.txt) | Jonathan Aldrich (Carnegie Mellon University)      |
 | 10.10-10.40 | __Break__                                                                                |                                                    |
 |             | __Session 1__ Chair: Harley Eades                                                        |                                                    |
 | 10.40-11.10 | Moving Beyond Parsing Expression Grammars                                                | Kayla Sanderson (North Carolina State University)  |
