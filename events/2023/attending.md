@@ -33,6 +33,10 @@ Google Maps</a>
 - In Augusta, private vehicle, ride-share or taxi is needed for most transportation.
 - During SERPL, free parking is available by the building on lot #101 <a target="_blank" rel="noopener noreferrer nofollow" href="https://map.concept3d.com/?id=824#!bm/?ce/14184?m/128925?s/?sbc/?mc/33.476954163515444,-82.0212454858762?z/17.82582911171612?lvl/0">(map)</a>
 
+## Internet Connection
+
+[eduroam](https://eduroam.org/) is available at all Augusta University campuses.
+
 ## Nearby Hotels
 
 <a href="https://www.google.com/maps/place/The+Partridge+Inn+Augusta,+Curio+Collection+by+Hilton/@33.4752397,-82.0122894,17z/data=!4m11!3m10!1s0x88f9cdb9bab32b7d:0x5158e4e9afab3566!5m4!1s2023-10-13!2i2!4m1!1i2!8m2!3d33.4752497!4d-82.0099756!16s%2Fg%2F1w347gg7?entry=ttu" target="_blank" rel="noopener noreferrer nofollow">The Partridge Inn Augusta</a>
