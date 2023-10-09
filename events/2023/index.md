@@ -53,15 +53,24 @@ The chairs can be reached at <caubert@augusta.edu> and <harley.eades@gmail.com>.
 
 Most of our sponsorship funds are used to help students from around the United States afford to attend the workshop and get the most out of their experience, as well as to help facilitate interest broadly in programming languages research. We believe this commitment will pay dividends for our students, sponsors, and the public for years to come. If you're interested in becoming a sponsor, [we'd love to hear from you](mailto:harley.eades@gmail.com).
 
-## Our Sponsor
+## Our Sponsors
 
 <div class="container">
   <div class="row justify-content-left">
   <div class="row">
     <div class="col-sm text-left">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1902406">
-        <img style="width:192px" src="{{ "/images/nsf-logo-desktop.svg" | relative_url }}" alt="NSF"></a>
+        <img style="width:210px" src="{{ "/images/nsf-logo-desktop.svg" | relative_url }}" alt="NSF"></a>
     </div>
+    <div class="col-sm text-left mt-4">
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.augusta.edu/student-life/graduatesga/">
+        <table>
+        <tr><td><img style="width: 82px;" src="{{ "/images/au_shield.png" | relative_url }}" alt="GSGA"></td>
+        <td style="color: #000">Graduate Student<br/>Government Association</td></tr>
+        </table>
+      </a>
+    </div>
+    <div class="col-sm text-left"></div>
   </div>
   </div>
 </div>
