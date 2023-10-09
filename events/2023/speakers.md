@@ -13,7 +13,7 @@ A few helpful things to consider when preparing your presentation.
 
 **Preparing the slides**
 
-- The projection screen has 16:9 ratio and is the recommended size for slides.
+- The projection screen has 16:9 ratio and is the recommended aspect ratio for slides.
 - There are two TV screens behind the audience that mirror the projected screen; it is possible to view slides even when facing the audience.
 
 **Planning the speech**
