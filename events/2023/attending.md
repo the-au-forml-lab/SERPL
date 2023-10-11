@@ -20,7 +20,7 @@ Augusta, Georgia 30904
 ### Directions
 
 <div class="btn-group btn-group-toggle">
-<a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer nofollow" href="https://www.openstreetmap.org/directions?from=&to=33.47732%2C-82.02211#map=19/33.47748/-82.02297">
+<a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer nofollow" href="https://osm.org/go/ZHfJ8HJ1A?m=">
 OpenStreetMap</a>
 <a class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer nofollow" href="https://goo.gl/maps/WV5cGvopg7T1tGQQ9">
 Google Maps</a>
@@ -35,7 +35,7 @@ Google Maps</a>
 
 ## Internet Connection
 
-[eduroam](https://eduroam.org/) is available at all Augusta University campuses.
+[eduroam](https://eduroam.org/) is available at all Augusta University campuses. A visitor and guest network called `AU-Guest` is also available, please refer to [the University's webpage](https://www.augusta.edu/it/wireless.php) for more information.
 
 ## Nearby Hotels
 
