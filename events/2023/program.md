@@ -100,24 +100,6 @@ Click the photos for a larger version.
 </div>
 
 <div class="d-flex justify-content-center flex-md-wrap flex-lg-nowrap">
-    <a href="{{ "/images/event_photos/15.jpeg" | relative_url }}" title="Eclipse!" target="_blank">
-        <img style="max-width:100%" src="{{ "/images/event_photos/15_tn.jpeg" | relative_url }}"  alt="Eclipse!">
-    </a>
-    <a href="{{ "/images/event_photos/16.jpeg" | relative_url }}" title="Eclipse!" target="_blank">
-        <img style="max-width:100%" src="{{ "/images/event_photos/16_tn.jpeg" | relative_url }}"  alt="Eclipse!">
-    </a>
-    <a href="{{ "/images/event_photos/17.jpeg" | relative_url }}" title="Eclipse!" target="_blank">
-        <img style="max-width:100%" src="{{ "/images/event_photos/17_tn.jpeg" | relative_url }}" alt="Eclipse!">
-    </a>
-    <a href="{{ "/images/event_photos/18.jpeg" | relative_url }}" title="Gregory Blike" target="_blank">
-        <img style="max-width:100%" src="{{ "/images/event_photos/18_tn.jpeg" | relative_url }}" alt="Gregory Blike">
-    </a>
-    <a href="{{ "/images/event_photos/19.jpeg" | relative_url }}" title="Gregory Blike" target="_blank">
-        <img style="max-width:100%" src="{{ "/images/event_photos/19_tn.jpeg" | relative_url }}" alt="Gregory Blike ">
-    </a>
-</div>
-
-<div class="d-flex justify-content-center flex-md-wrap flex-lg-nowrap">
     <a href="{{ "/images/event_photos/20.jpeg" | relative_url }}" title="Neea Rusch and Paul Maynard" target="_blank">
         <img style="max-width:100%" src="{{ "/images/event_photos/20_tn.jpeg" | relative_url }}"  alt="Neea Rusch and Paul Maynard">
     </a>
