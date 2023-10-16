@@ -22,3 +22,20 @@ title: Program
 |             | __Session 3__ Chair: Clément Aubert                                                      |                                                    |
 | 15.10-15.40 | [Exploring the Performance of Loop Quasi-Invariant Code Motion](abstracts/Exploring_the_Performance_of_Loop_Quasi_Invariant_Code_Motion.pdf)                           | Jason Weeks, Ian Yelle (Augusta University)        |
 | 15.40-16.10 | [Auto-Vectorization for Lattice-Based Cryptographic Primitives](abstracts/Auto-Vectorization_for_Lattice-BasedCryptographic_Primitives.pdf)                           | Camille Bossut (Georgia Institute of Technology)   |
+
+<div class="d-flex justify-content-center flex-md-wrap flex-lg-nowrap">
+<a href="{{ "/images/event_photos/0.jpg" | relative_url }}" title="Jonathan Aldrich" target="_blank">
+    <img style="max-width:100%" src="{{ "/images/event_photos/0_tn.jpg" | relative_url }}"  alt="Jonathan Aldrich">
+</a>
+<a href="{{ "/images/event_photos/1.jpg" | relative_url }}" title="Jonathan Aldrich" target="_blank">
+    <img style="max-width:100%" src="{{ "/images/event_photos/1_tn.jpg" | relative_url }}"  alt="Jonathan Aldrich">
+</a>
+<a href="{{ "/images/event_photos/2.jpg" | relative_url }}" title="Attendance" target="_blank">
+    <img style="max-width:100%" src="{{ "/images/event_photos/2_tn.jpg" | relative_url }}" alt="Attendance">
+</a>
+<a href="{{ "/images/event_photos/.jpg" | relative_url }}" title="Jamie Jennings" target="_blank">
+    <img style="max-width:100%" src="{{ "/images/event_photos/3_tn.jpg" | relative_url }}" alt="Jamie Jennings">
+</a>
+<a href="{{ "/images/event_photos/4.jpg" | relative_url }}" title="Jamie Jennings" target="_blank">
+    <img style="max-width:100%" src="{{ "/images/event_photos/4_tn.jpg" | relative_url }}" alt="Jamie Jennings"></a>
+</div>
