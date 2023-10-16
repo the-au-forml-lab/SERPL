@@ -62,3 +62,120 @@ Click the photos for a larger version.
         <img style="max-width:100%" src="{{ "/images/event_photos/9_tn.jpeg" | relative_url }}" alt="Attendance">
     </a>
 </div>
+
+<div class="d-flex justify-content-center flex-md-wrap flex-lg-nowrap">
+    <a href="{{ "/images/event_photos/10.jpeg" | relative_url }}" title="Paul MacNichol" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/10_tn.jpeg" | relative_url }}"  alt="Paul MacNichol">
+    </a>
+    <a href="{{ "/images/event_photos/11.jpeg" | relative_url }}" title="Jamie Jennings" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/11_tn.jpeg" | relative_url }}"  alt="Jamie Jennings">
+    </a>
+    <a href="{{ "/images/event_photos/12.jpeg" | relative_url }}" title="Benjamin Mikek" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/12_tn.jpeg" | relative_url }}" alt="Benjamin Mikek">
+    </a>
+    <a href="{{ "/images/event_photos/13.jpeg" | relative_url }}" title="Benjamin Mikek" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/13_tn.jpeg" | relative_url }}" alt="Benjamin Mikek">
+    </a>
+    <a href="{{ "/images/event_photos/14.jpeg" | relative_url }}" title="Eclipse!" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/14_tn.jpeg" | relative_url }}" alt="Eclipse!">
+    </a>
+</div>
+
+<div class="d-flex justify-content-center flex-md-wrap flex-lg-nowrap">
+    <a href="{{ "/images/event_photos/15.jpeg" | relative_url }}" title="Eclipse!" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/15_tn.jpeg" | relative_url }}"  alt="Eclipse!">
+    </a>
+    <a href="{{ "/images/event_photos/16.jpeg" | relative_url }}" title="Eclipse!" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/16_tn.jpeg" | relative_url }}"  alt="Eclipse!">
+    </a>
+    <a href="{{ "/images/event_photos/17.jpeg" | relative_url }}" title="Eclipse!" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/17_tn.jpeg" | relative_url }}" alt="Eclipse!">
+    </a>
+    <a href="{{ "/images/event_photos/18.jpeg" | relative_url }}" title="Gregory Blike" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/18_tn.jpeg" | relative_url }}" alt="Gregory Blike">
+    </a>
+    <a href="{{ "/images/event_photos/19.jpeg" | relative_url }}" title="Gregory Blike" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/19_tn.jpeg" | relative_url }}" alt="Gregory Blike ">
+    </a>
+</div>
+
+<div class="d-flex justify-content-center flex-md-wrap flex-lg-nowrap">
+    <a href="{{ "/images/event_photos/15.jpeg" | relative_url }}" title="Eclipse!" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/15_tn.jpeg" | relative_url }}"  alt="Eclipse!">
+    </a>
+    <a href="{{ "/images/event_photos/16.jpeg" | relative_url }}" title="Eclipse!" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/16_tn.jpeg" | relative_url }}"  alt="Eclipse!">
+    </a>
+    <a href="{{ "/images/event_photos/17.jpeg" | relative_url }}" title="Eclipse!" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/17_tn.jpeg" | relative_url }}" alt="Eclipse!">
+    </a>
+    <a href="{{ "/images/event_photos/18.jpeg" | relative_url }}" title="Gregory Blike" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/18_tn.jpeg" | relative_url }}" alt="Gregory Blike">
+    </a>
+    <a href="{{ "/images/event_photos/19.jpeg" | relative_url }}" title="Gregory Blike" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/19_tn.jpeg" | relative_url }}" alt="Gregory Blike ">
+    </a>
+</div>
+
+<div class="d-flex justify-content-center flex-md-wrap flex-lg-nowrap">
+    <a href="{{ "/images/event_photos/20.jpeg" | relative_url }}" title="Neea Rusch and Paul Maynard" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/20_tn.jpeg" | relative_url }}"  alt="Neea Rusch and Paul Maynard">
+    </a>
+    <a href="{{ "/images/event_photos/21.jpeg" | relative_url }}" title="Paul Maynard" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/21_tn.jpeg" | relative_url }}"  alt="Paul Maynard">
+    </a>
+    <a href="{{ "/images/event_photos/22.jpeg" | relative_url }}" title="Paul Maynard" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/22_tn.jpeg" | relative_url }}" alt="Paul Maynard">
+    </a>
+    <a href="{{ "/images/event_photos/23.jpeg" | relative_url }}" title="Group picture" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/23_tn.jpeg" | relative_url }}" alt="Group picture">
+    </a>
+    <a href="{{ "/images/event_photos/24.jpeg" | relative_url }}" title="Group picture" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/24_tn.jpeg" | relative_url }}" alt="Group picture">
+    </a>
+</div>
+
+<div class="d-flex justify-content-center flex-md-wrap flex-lg-nowrap">
+    <a href="{{ "/images/event_photos/25.jpeg" | relative_url }}" title="Group picture" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/25_tn.jpeg" | relative_url }}"  alt="Group picture">
+    </a>
+    <a href="{{ "/images/event_photos/26.jpeg" | relative_url }}" title="Group picture" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/26_tn.jpeg" | relative_url }}"  alt="Group picture">
+    </a>
+    <a href="{{ "/images/event_photos/27.jpeg" | relative_url }}" title="Ian Yelle" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/27_tn.jpeg" | relative_url }}" alt="Ian Yelle">
+    </a>
+    <a href="{{ "/images/event_photos/28.jpeg" | relative_url }}" title="Jason Weeks" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/28_tn.jpeg" | relative_url }}" alt="Jason Weeks">
+    </a>
+    <a href="{{ "/images/event_photos/29.jpeg" | relative_url }}" title="Ian Yelle" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/29_tn.jpeg" | relative_url }}" alt="Ian Yelle">
+    </a>
+</div>
+
+<div class="d-flex justify-content-center flex-md-wrap flex-lg-nowrap">
+    <a href="{{ "/images/event_photos/30.jpeg" | relative_url }}" title="Ian Yelle" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/30_tn.jpeg" | relative_url }}"  alt="Ian Yelle">
+    </a>
+    <a href="{{ "/images/event_photos/31.jpeg" | relative_url }}" title="Jason Weeks" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/31_tn.jpeg" | relative_url }}"  alt="Jason Weeks">
+    </a>
+    <a href="{{ "/images/event_photos/32.jpeg" | relative_url }}" title="Attendance" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/32_tn.jpeg" | relative_url }}" alt="Attendance">
+    </a>
+    <a href="{{ "/images/event_photos/33.jpeg" | relative_url }}" title="Camille Bossut" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/33_tn.jpeg" | relative_url }}" alt="Camille Bossut">
+    </a>
+    <a href="{{ "/images/event_photos/34.jpeg" | relative_url }}" title="Camille Bossut" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/34_tn.jpeg" | relative_url }}" alt="Camille Bossut">
+    </a>
+</div>
+
+<div class="d-flex justify-content-center flex-md-wrap flex-lg-nowrap">
+    <a href="{{ "/images/event_photos/35.jpeg" | relative_url }}" title="Attendance" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/35_tn.jpeg" | relative_url }}"  alt="Attendance">
+    </a>
+    <a href="{{ "/images/event_photos/36.jpeg" | relative_url }}" title="Attendance" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/36_tn.jpeg" | relative_url }}"  alt="Attendance">
+    </a>
+</div>
