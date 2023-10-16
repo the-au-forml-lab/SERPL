@@ -28,18 +28,37 @@ title: Program
 Click the photos for a larger version.
 
 <div class="d-flex justify-content-center flex-md-wrap flex-lg-nowrap">
-<a href="{{ "/images/event_photos/0.jpeg" | relative_url }}" title="Jonathan Aldrich" target="_blank">
-    <img style="max-width:100%" src="{{ "/images/event_photos/0_tn.jpeg" | relative_url }}"  alt="Jonathan Aldrich">
-</a>
-<a href="{{ "/images/event_photos/1.jpeg" | relative_url }}" title="Jonathan Aldrich" target="_blank">
-    <img style="max-width:100%" src="{{ "/images/event_photos/1_tn.jpeg" | relative_url }}"  alt="Jonathan Aldrich">
-</a>
-<a href="{{ "/images/event_photos/2.jpeg" | relative_url }}" title="Attendance" target="_blank">
-    <img style="max-width:100%" src="{{ "/images/event_photos/2_tn.jpeg" | relative_url }}" alt="Attendance">
-</a>
-<a href="{{ "/images/event_photos/.jpeg" | relative_url }}" title="Jamie Jennings" target="_blank">
-    <img style="max-width:100%" src="{{ "/images/event_photos/3_tn.jpeg" | relative_url }}" alt="Jamie Jennings">
-</a>
-<a href="{{ "/images/event_photos/4.jpeg" | relative_url }}" title="Jamie Jennings" target="_blank">
-    <img style="max-width:100%" src="{{ "/images/event_photos/4_tn.jpeg" | relative_url }}" alt="Jamie Jennings"></a>
+    <a href="{{ "/images/event_photos/0.jpeg" | relative_url }}" title="Jonathan Aldrich" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/0_tn.jpeg" | relative_url }}"  alt="Jonathan Aldrich">
+    </a>
+    <a href="{{ "/images/event_photos/1.jpeg" | relative_url }}" title="Jonathan Aldrich" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/1_tn.jpeg" | relative_url }}"  alt="Jonathan Aldrich">
+    </a>
+    <a href="{{ "/images/event_photos/2.jpeg" | relative_url }}" title="Attendance" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/2_tn.jpeg" | relative_url }}" alt="Attendance">
+    </a>
+    <a href="{{ "/images/event_photos/3.jpeg" | relative_url }}" title="Jamie Jennings" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/3_tn.jpeg" | relative_url }}" alt="Jamie Jennings">
+    </a>
+    <a href="{{ "/images/event_photos/4.jpeg" | relative_url }}" title="Jamie Jennings" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/4_tn.jpeg" | relative_url }}" alt="Jamie Jennings">
+    </a>
+</div>
+
+<div class="d-flex justify-content-center flex-md-wrap flex-lg-nowrap">
+    <a href="{{ "/images/event_photos/5.jpeg" | relative_url }}" title="Kayla Sanderson" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/5_tn.jpeg" | relative_url }}"  alt="Kayla Sanderson">
+    </a>
+    <a href="{{ "/images/event_photos/6.jpeg" | relative_url }}" title="Paul MacNichol" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/6_tn.jpeg" | relative_url }}"  alt="Paul MacNichol">
+    </a>
+    <a href="{{ "/images/event_photos/7.jpeg" | relative_url }}" title="Paul MacNichol" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/7_tn.jpeg" | relative_url }}" alt="Paul MacNichol">
+    </a>
+    <a href="{{ "/images/event_photos/8.jpeg" | relative_url }}" title="Paul MacNichol and Jamie Jennings" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/8_tn.jpeg" | relative_url }}" alt="Paul MacNichol and Jamie Jennings">
+    </a>
+    <a href="{{ "/images/event_photos/9.jpeg" | relative_url }}" title="Attendance" target="_blank">
+        <img style="max-width:100%" src="{{ "/images/event_photos/9_tn.jpeg" | relative_url }}" alt="Attendance">
+    </a>
 </div>
